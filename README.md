@@ -15,16 +15,16 @@ Models that used:
 * Logistic Regression.
 * Sequential.
 
+![](models_machine_learning/img/model.png)
+
+Based on this summary table Sequential is best model, and saved in separeate file `haifa.sav`.
 
 
 
-they didn't genrilizes well on unseen data 
+## future work:
 
-knn : this model generalized well on unseen data but based on the classification report and  the accuracy of the model is low in compare with the other models.
-SVM:  
+Addressing the imbalance data using one of the sampling techniques such as :
+* Upsampling or downsampling. 
+* Apply other machine learning algo to address the given problem.
 
-future work:
-addressing the imbalnce data using one of the sampling techniques such as :
-upsampling or downsampling  
-apply other machine learning algo to address the given problem.
-using differnt metric to evaluate our work like ROC, AUC, sapceficyty and senstiveity.
+using differnt matrices to evaluate our work like ROC, AUC, sapceficyty and senstiveity.
