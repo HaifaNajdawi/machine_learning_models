@@ -17,7 +17,7 @@ Models that used:
 
 ![](models_machine_learning/img/model.png)
 
-Based on this summary table Sequential is best model, and saved in separeate file `haifa.sav`.
+Based on this summary table Sequential is best model, and saved in separeate file `haifa.h5`.
 
 
 
